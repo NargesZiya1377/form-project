@@ -1,0 +1,16 @@
+body{
+    background-color: #487e95;
+    font-size: 25px;
+    font-style: inherit;
+    font-family: serif;
+    font: x-large;
+    color: rgb(10, 13, 15);
+  }
+  .bu1{
+    color: #ffffff;
+    display: inline-block;
+    position: relative;
+    text-align: center;
+    text-decoration: none;
+    font: bold 16px/25px Arial, sans-serif;
+  }
